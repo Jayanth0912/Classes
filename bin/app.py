@@ -16,3 +16,5 @@ print("App")
 var = 100
 x= "vinay"
 y = "something"
+x=10
+y=20
