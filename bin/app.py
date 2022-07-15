@@ -14,3 +14,5 @@ print("App")
 # revert
 
 var = 100
+x= "vinay"
+y = "something"
